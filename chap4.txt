@@ -1,0 +1,5 @@
+I am Tanveer hamza 
+i am checking for changes in Main file through branching process in Version control Git Hub 
+so for that I will be making this text file in the main branch i
+
+inital commit ---- chap 4 commits
